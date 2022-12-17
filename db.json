@@ -95,17 +95,65 @@
             "rate": 3.9,
             "count": 120
             }
+        },
+        {
+            "id": 9,
+            "title": "BALENCIAGA",
+            "price": 109.95,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://cdna.lystit.com/cms/balenciaga_b4eec10d67.jpg",
+            "rating": {
+            "rate": 3.9,
+            "count": 120
+            }
+        },
+        {
+            "id": 10,
+            "title": "VIVIENNE WESTWOOD",
+            "price": 109.95,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://cdna.lystit.com/cms/vivienne_westwood_f7d712c58e.jpg",
+            "rating": {
+            "rate": 3.9,
+            "count": 120
+            }
+        },
+        {
+            "id": 11,
+            "title": "ALEXANDER MCQUEEN SNEAKERS",
+            "price": 109.95,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "Shoes",
+            "image": "https://cdna.lystit.com/cms/mcqueen_sneakers_8bed6ead41.jpg",
+            "rating": {
+            "rate": 3.9,
+            "count": 120
+            }
+        },
+        {
+            "id": 12,
+            "title": "GUCCI WALLETS",
+            "price": 109.95,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "wallet",
+            "image": "https://cdna.lystit.com/cms/gucci_wallet_efb3e00367.jpg",
+            "rating": {
+            "rate": 3.9,
+            "count": 120
+            }
         }
     ],
-  
-    "mensproducts": [
+    
+    "allproducts": [
         {
         "id": 1,
-        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "title": "STONE ISLAND | FW_'022'23 COLLECTION ",
         "price": 109.95,
         "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
         "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "image": "https://cdna.lystit.com/cms/HP_Top_Lyst_Banner_600x600_6bb8c2a582.jpg",
         "rating": {
         "rate": 3.9,
         "count": 120
@@ -197,7 +245,7 @@
         },
         {
             "id": 9,
-            "title": "DIESEL- BUSTER Medium Washed Tapered Fit Jeans",
+            "title": "DIESEL - BUSTER Medium Washed Tapered Fit Jeans",
             "price": 999.99,
             "description": "We assure the authenticity and quality of our products BUSTER Medium Washed Tapered Fit Jeans",
             "category": "men's clothing",
@@ -209,7 +257,7 @@
         },
         {
             "id": 10,
-            "title": "Loewe- Men's Blue Striped Faux-sherling Sweater",
+            "title": "Loewe - Men's Blue Striped Faux-sherling Sweater",
             "price": 999.99,
             "description": "LOEWE brings a textural appeal to its multicoloured striped sweater by crafting it from tactile faux-shearling with an abstract wavy finish. Color: blue",
             "category": "men's clothing",
@@ -221,7 +269,7 @@
         },
         {
             "id": 11,
-            "title": "Balenciaga- Men's Red Destroyed Hooded Sweatshirt",
+            "title": "Balenciaga - Men's Red Destroyed Hooded Sweatshirt",
             "price": 999.99,
             "description": "Knit from cotton in Balenciaga's signature large fit, this hooded sweatshirt features intentionally ripped details for a deconstructed finish. 100% COTTON. Color: red",
             "category": "men's clothing",
@@ -233,7 +281,7 @@
         },
         {
             "id": 12,
-            "title": "Loewe- Men's White Shearling Aviator Jacket",
+            "title": "Loewe - Men's White Shearling Aviator Jacket",
             "price": 999.99,
             "description": "LOEWE can always be relied upon to create statement designs that not only benefit from the most luxurious materials but also an emphasis on craftsmanship. With a wide collar and two distinctive buckle fastenings, this is a contemporary aviator jacket in every sense– soon you really will be flying in fashion. Leather. Color: white",
             "category": "men's clothing",
@@ -245,7 +293,7 @@
         },
         {
             "id": 13,
-            "title": "Emporio Armani- Men's Black Logo Tracksuit",
+            "title": "Emporio Armani - Men's Black Logo Tracksuit",
             "price": 999.99,
             "description": "The Logo Tracksuit from EA7 comes in Black color. The top features a rubber logo, open pockets, and elasticated cuffs and hem. It also features an elasticated neck, zip closure, and full sleeves. The sweatpants sport a rubber logo and open pockets. Coming with a drawstring elasticated waist, the sweatpants also feature elasticated ankles. Color: black",
             "category": "men's clothing",
@@ -258,7 +306,7 @@
                 
         {
         "id": 14,
-        "title": "DIESEL- Men's Black D-amny Velvet Skinny Fit Jeans",
+        "title": "DIESEL - Men's Black D-amny Velvet Skinny Fit Jeans",
         "price": 999.99,
         "description": "Serving denim lovers since 1978 Diesel presents the D-Amny Jeans, cut to a skinny fit with a high waist. This version is crafted from an innovative stretch velvet with a clean and sleek look. Featuring a belt looped waist, zip fly fastening and a classic five-pocket design. Finished with iconic Diesel branding. Skinny Fit High Waist. Stretch Velvet. Belt Looped Waist. Zip Fly Fastening. Five Pocket Design. Diesel Branding. TECH--. Style & Fit: SkinnyFit. Fits True to Size. Composition & Care: 75% Cotton. 23% Polyester. 2% Elastane. Machine Wash. Color: black",
         "category": "men's clothing",
@@ -270,7 +318,7 @@
         },
         {
         "id": 15,
-        "title": "DIESEL- Men's Blue 'zatiny' Jeans",
+        "title": "DIESEL - Men's Blue 'zatiny' Jeans",
         "price": 56.99,
         "description": "Blue distressed 'Zatiny' jeans from Diesel. Straight leg. Medium waist. Button fastening. Color: blue",
         "category": "men's clothing",
@@ -318,7 +366,479 @@
         },
         {
         "id": 19,
-        "title": "Balenciaga- Men's White The Simpsons Oversized Printed Cotton-blend Jersey T-shirt",
+        "title": "Balenciaga - Men's White The Simpsons Oversized Printed Cotton-blend Jersey T-shirt",
+        "price": 7.95,
+        "description": "Men's White The Simpsons Oversized Printed Cotton-blend Jersey T-shirt",
+        "category": "men's clothing",
+        "image": "https://cdna.lystit.com/200/250/tr/photos/lvr/e2c7cfb5/balenciaga-Blanc-Casse-T-shirt-Oversize-En-Jersey-The-Simpsons-Tm.jpeg",
+        "rating": {
+        "rate": 4.5,
+        "count": 146
+        }
+        },
+        {
+        "id": 20,
+        "title": "Mugler-Men's Black Bonded T-shirt",
+        "price": 12.99,
+        "description": "Men's Black Bonded T-shirt",
+        "category": "men's clothing",
+        "image": "https://cdna.lystit.com/200/250/tr/photos/ssense/209b4644/mugler-BLACK-Bonded-T-shirt.jpeg",
+        "rating": {
+        "rate": 3.6,
+        "count": 145
+        }
+        },
+        {
+            "id": 21,
+            "title": "DIESEL - Women's Pink 'd-bakos' Dress",
+            "price": 109.95,
+            "description": "Multicolored 'D-BAKOS' ribbed dress from Diesel. Crafted from cotton, this long sleeve design features a tie-dye pattern, logo patch, raw cut edges and round neck. Color: pinky",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/vitkac/e55d3eaf/diesel-MULTICOLOUR-d-bakos-Dress.jpeg",
+            "rating": {
+            "rate": 3.9,
+            "count": 120
+            }
+            },
+            {
+            "id": 22,
+            "title": "Balenciaga - Women's Pink Logo Wool-blend Sweater",
+            "price": 22.3,
+            "description": "This cozy pink wool-blend sweater from Balenciaga is enriched with unmissable scrolling logos. 53% COTTON 22% POLYESTER 22% WOOL 2% POLYAMIDE 1% ELASTAN. Color: pink",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/mytheresa/48292581/balenciaga-pink-Pull-en-laine-melangee-a-logo.jpeg",
+            "rating": {
+            "rate": 4.1,
+            "count": 259
+            }
+            },
+            {
+            "id": 23,
+            "title": "Womens Cotton Jacket",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "rating": {
+            "rate": 4.7,
+            "count": 500
+            }
+            },
+            {
+            "id": 24,
+            "title": "Mugler - Women's Blue Paneled Seam Detail Skinny Jeans",
+            "price": 15.99,
+            "description": "These Mugler paneled seam detail skinny jeans are cut for a slim fit. These jeans fit you like a glove - it seams as though they were made for you. Sky blue washMade with cottonPanelled designConcealed fastening with button closureBelt loopsFive pocketsScultped seamsStitched detailingBranded patch to the reverseCrafted in Italy. Color: blue",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/brownsfashion/5c9646c1/mugler-Blue-Panelled-Seam-Detail-Skinny-Jeans.jpeg",
+            "rating": {
+            "rate": 2.1,
+            "count": 430
+            }
+            },
+            {
+            "id": 25,
+            "title": "DIESEL - Women's Blue 'd-tandy' Sleeveless Dress",
+            "price": 695,
+            "description": "Blue 'D-TANDY' maxi sleeveless dress from Diesel. Crafted from a combination of cotton, fleece and satin, this style features contrasting taping, logo patches on the front and back, hook & eye closures and denim fringes on the side. Color: blue",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/520/650/n/photos/vitkac/0ca93c10/diesel-BLUE-d-tandy-Sleeveless-Dress.jpeg",
+            "rating": {
+            "rate": 4.6,
+            "count": 400
+            }
+            },
+            {
+            "id": 26,
+            "title": "Solid Gold Petite Micropave ",
+            "price": 168,
+            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+            "rate": 3.9,
+            "count": 70
+            }
+            },
+            {
+            "id": 27,
+            "title": "White Gold Plated Princess",
+            "price": 9.99,
+            "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+            "rate": 3,
+            "count": 400
+            }
+            },
+            {
+            "id": 28,
+            "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "price": 10.99,
+            "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+            "rate": 1.9,
+            "count": 100
+            }
+            },
+            {
+            "id": 29,
+            "title": "Mugler - Women's Brown Dress",
+            "price": 64,
+            "description": "Draped dress Spaghetti strap neckline Thin shoulder straps Neckline Open back Sheer lining. Color: brown",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/24sevres/817eeaee/mugler-nude_1-Dress.jpeg",
+            "rating": {
+            "rate": 3.3,
+            "count": 203
+            }
+            },
+            {
+            "id": 30,
+            "title": "Mugler - Blue Colourblock Skinny Jeans - Women's - Cotton",
+            "price": 109,
+            "description": "Medium blue and blackMade from cottonHigh-rise waistButton and concealed front fasteningBelt loopsSilver-tone metal rivetsContrast panels wrapping front to backFive pocketsRear contrast leather logo patchSkinny legsCrafted in Italy. Color: blue",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/brownsfashion/fef37a6d/mugler-Blue-Colourblock-Skinny-Jeans-Womens-Cottonpolyamidepolyesterspandexelastane.jpeg",
+            "rating": {
+            "rate": 2.9,
+            "count": 470
+            }
+            },
+            {
+            "id": 31,
+            "title": "Loewe - Women's Black Maxi Dress",
+            "price": 109,
+            "description": "Maxi dress Sleeveless Round neck Asymmetric cut Tie fastening Shorter at the front Bi-material. Color: black",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/520/650/n/photos/24sevres/332c798d/loewe-black-Maxi-Dress.jpeg",
+            "rating": {
+            "rate": 4.8,
+            "count": 319
+            }
+            },
+            {
+            "id": 32,
+            "title": "Emporio Armani - Women's Black Hoodie With Logo",
+            "price": 114,
+            "description": "Black sweatshirt with a drawcord-adjustable hood from Emporio Armani, the 'Underwear' collection. Crafted from cotton jersey, this style features a zip fastening, a white logo print, two slip pockets, long sleeves and an elasticated bottom hem and cuffs. Color: black",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/vitkac/c79dedc1/emporio-armani-BLACK-Hoodie-With-Logo.jpeg",
+            "rating": {
+            "rate": 4.8,
+            "count": 400
+            }
+            },
+            {
+            "id": 33,
+            "title": "DIESEL - Women's Metallic 'w-elvia' Jacket",
+            "price": 599,
+            "description": "Greenish gray 'W-ELVIA' short hooded jacket from Diesel. Fastened with an asymmetric zip fastening, this garment is complete with a logo patch, drawstring hem, two zip pockets and long sleeves with ribbed cuffs. Color: metallic",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/vitkac/4984ea9d/diesel-GREY-w-elvia-Jacket.jpeg",
+            "rating": {
+            "rate": 2.9,
+            "count": 250
+            }
+            },
+            {
+            "id": 34,
+            "title": "DIESEL - Women's Red 'm-arcey' Dress",
+            "price": 999.99,
+            "description": "Red 'M-ARCEY' dress with a mock neck, cut-out and logo appliqué in red from Diesel. Color: red",
+            "category": "women's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/vitkac/ef3b9ab5/diesel-RED-m-arcey-Dress.jpeg",
+            "rating": {
+            "rate": 2.2,
+            "count": 140
+            }
+            },
+            {
+            "id": 35,
+            "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+            "price": 56.99,
+            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "rating": {
+            "rate": 2.6,
+            "count": 235
+            }
+            },
+            {
+            "id": 36,
+            "title": "Lock and Love Women's Removable Hooded Biker Jacket",
+            "price": 29.95,
+            "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+            "rating": {
+            "rate": 2.9,
+            "count": 340
+            }
+            },
+            {
+            "id": 37,
+            "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+            "price": 39.99,
+            "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+            "rating": {
+            "rate": 3.8,
+            "count": 679
+            }
+            },
+            {
+            "id": 38,
+            "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+            "price": 9.85,
+            "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+            "rating": {
+            "rate": 4.7,
+            "count": 130
+            }
+            },
+            {
+            "id": 39,
+            "title": "Opna Women's Short Sleeve Moisture",
+            "price": 7.95,
+            "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+            "rating": {
+            "rate": 4.5,
+            "count": 146
+            }
+            },
+            {
+            "id": 40,
+            "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+            "price": 12.99,
+            "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+            "rating": {
+            "rate": 3.6,
+            "count": 145
+            }
+            }
+        ],
+  
+    "mensproducts": [
+        {
+        "id": 2,
+        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "price": 22.3,
+        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+        "rating": {
+        "rate": 4.1,
+        "count": 259
+        }
+        },
+        {
+        "id": 3,
+        "title": "Mens Cotton Jacket",
+        "price": 55.99,
+        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+        "rating": {
+        "rate": 4.7,
+        "count": 500
+        }
+        },
+        {
+        "id": 4,
+        "title": "Mens Casual Slim Fit",
+        "price": 15.99,
+        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+        "category": "men's clothing",
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "rating": {
+        "rate": 2.1,
+        "count": 430
+        }
+        },
+        {
+        "id": 5,
+        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "price": 695,
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+        "rate": 4.6,
+        "count": 400
+        }
+        },
+        {
+        "id": 6,
+        "title": "Solid Gold Petite Micropave ",
+        "price": 168,
+        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+        "rate": 3.9,
+        "count": 70
+        }
+        },
+        {
+        "id": 7,
+        "title": "White Gold Plated Princess",
+        "price": 9.99,
+        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+        "rate": 3,
+        "count": 400
+        }
+        },
+        {
+        "id": 8,
+        "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+        "price": 10.99,
+        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+        "rate": 1.9,
+        "count": 100
+        }
+        },
+        {
+            "id": 9,
+            "title": "DIESEL - BUSTER Medium Washed Tapered Fit Jeans",
+            "price": 999.99,
+            "description": "We assure the authenticity and quality of our products BUSTER Medium Washed Tapered Fit Jeans",
+            "category": "men's clothing",
+            "image": "https://assets.ajio.com/medias/sys_master/root/h8b/h7f/12506709590046/-473Wx593H-410164263-01-MODEL4.jpg",
+            "rating": {
+            "rate": 2.2,
+            "count": 140
+            }
+        },
+        {
+            "id": 10,
+            "title": "Loewe - Men's Blue Striped Faux-sherling Sweater",
+            "price": 999.99,
+            "description": "LOEWE brings a textural appeal to its multicoloured striped sweater by crafting it from tactile faux-shearling with an abstract wavy finish. Color: blue",
+            "category": "men's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/matchesfashion/83492383/loewe-brown-multi-Striped-Faux-sherling-Sweater.jpeg",
+            "rating": {
+            "rate": 2.2,
+            "count": 140
+            }
+        },
+        {
+            "id": 11,
+            "title": "Balenciaga - Men's Red Destroyed Hooded Sweatshirt",
+            "price": 999.99,
+            "description": "Knit from cotton in Balenciaga's signature large fit, this hooded sweatshirt features intentionally ripped details for a deconstructed finish. 100% COTTON. Color: red",
+            "category": "men's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/mytheresa/fcc2f9c2/balenciaga-rojo-Sudadera-Destroyed-Con-Capucha-Y-Roturas.jpeg",
+            "rating": {
+            "rate": 2.2,
+            "count": 140
+            }
+        },
+        {
+            "id": 12,
+            "title": "Loewe - Men's White Shearling Aviator Jacket",
+            "price": 999.99,
+            "description": "LOEWE can always be relied upon to create statement designs that not only benefit from the most luxurious materials but also an emphasis on craftsmanship. With a wide collar and two distinctive buckle fastenings, this is a contemporary aviator jacket in every sense– soon you really will be flying in fashion. Leather. Color: white",
+            "category": "men's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/vitkac/6cf1839c/loewe-beige-Shearling-Jacket-With-Pockets.jpeg",
+            "rating": {
+            "rate": 2.2,
+            "count": 140
+            }
+        },
+        {
+            "id": 13,
+            "title": "Emporio Armani - Men's Black Logo Tracksuit",
+            "price": 999.99,
+            "description": "The Logo Tracksuit from EA7 comes in Black color. The top features a rubber logo, open pockets, and elasticated cuffs and hem. It also features an elasticated neck, zip closure, and full sleeves. The sweatpants sport a rubber logo and open pockets. Coming with a drawstring elasticated waist, the sweatpants also feature elasticated ankles. Color: black",
+            "category": "men's clothing",
+            "image": "https://cdna.lystit.com/200/250/tr/photos/stand-out/3290a3ff/ea7-Black-Zip-Hoodie-Jersey-Tracksuit.jpeg",
+            "rating": {
+            "rate": 2.2,
+            "count": 140
+            }
+        },
+                
+        {
+        "id": 14,
+        "title": "DIESEL - Men's Black D-amny Velvet Skinny Fit Jeans",
+        "price": 999.99,
+        "description": "Serving denim lovers since 1978 Diesel presents the D-Amny Jeans, cut to a skinny fit with a high waist. This version is crafted from an innovative stretch velvet with a clean and sleek look. Featuring a belt looped waist, zip fly fastening and a classic five-pocket design. Finished with iconic Diesel branding. Skinny Fit High Waist. Stretch Velvet. Belt Looped Waist. Zip Fly Fastening. Five Pocket Design. Diesel Branding. TECH--. Style & Fit: SkinnyFit. Fits True to Size. Composition & Care: 75% Cotton. 23% Polyester. 2% Elastane. Machine Wash. Color: black",
+        "category": "men's clothing",
+        "image": "https://cdna.lystit.com/520/650/n/photos/woodhouseclothing/e00fd5bf/diesel-Black-D-amny-Velvet-Skinny-Fit-Jeans.jpeg",
+        "rating": {
+        "rate": 2.2,
+        "count": 140
+        }
+        },
+        {
+        "id": 15,
+        "title": "DIESEL - Men's Blue 'zatiny' Jeans",
+        "price": 56.99,
+        "description": "Blue distressed 'Zatiny' jeans from Diesel. Straight leg. Medium waist. Button fastening. Color: blue",
+        "category": "men's clothing",
+        "image": "https://cdna.lystit.com/200/250/tr/photos/vitkac/11d974a5/diesel-BLUE-Jeans.jpeg",
+        "rating": {
+        "rate": 2.6,
+        "count": 235
+        }
+        },
+        {
+        "id": 16,
+        "title": "Men's Green Logo Destroyed Cotton Sweatshirt Hoodie",
+        "price": 29.95,
+        "description": "Printed front panel. Intentionally distressed areas may vary. One front kangaroo pocket. Contrasting color lining. Model is wearing a sizem. Color: greenN",
+        "category": "men's clothing",
+        "image": "https://cdna.lystit.com/520/650/n/photos/lvr/40a99d5a/balenciaga-Dark-Green-Logo-Destroyed-Cotton-Hoodie.jpeg",
+        "rating": {
+        "rate": 2.9,
+        "count": 340
+        }
+        },
+        {
+        "id": 17,
+        "title": "Men's Black Checked Shirt",
+        "price": 39.99,
+        "description": "Black shirt from Loewe. Crafted from a silk and cotton blend, this style showcases a green and blue check pattern and printed blue logo with a washed effect. It is complete with button fastenings, a slip chest pocket and long sleeves with button cuffs. Color: black",
+        "category": "men's clothing",
+        "image": "https://cdna.lystit.com/200/250/tr/photos/vitkac/7cc88457/loewe-BLACK-Leather-Shirt.jpeg",
+        "rating": {
+        "rate": 3.8,
+        "count": 679
+        }
+        },
+        {
+        "id": 18,
+        "title": "Mugler",
+        "price": 9.85,
+        "description": " Men's Black Off-white Spiral Jeans",
+        "category": "men's clothing",
+        "image": "https://cdna.lystit.com/200/250/tr/photos/ssense/f9c1ac14/mugler-IVORY-Off-Spiral-Jeans.jpeg",
+        "rating": {
+        "rate": 4.7,
+        "count": 130
+        }
+        },
+        {
+        "id": 19,
+        "title": "Balenciaga - Men's White The Simpsons Oversized Printed Cotton-blend Jersey T-shirt",
         "price": 7.95,
         "description": "Men's White The Simpsons Oversized Printed Cotton-blend Jersey T-shirt",
         "category": "men's clothing",
@@ -345,7 +865,7 @@
         "womensproducts": [
             {
             "id": 1,
-            "title": "DIESEL- Women's Pink 'd-bakos' Dress",
+            "title": "DIESEL - Women's Pink 'd-bakos' Dress",
             "price": 109.95,
             "description": "Multicolored 'D-BAKOS' ribbed dress from Diesel. Crafted from cotton, this long sleeve design features a tie-dye pattern, logo patch, raw cut edges and round neck. Color: pinky",
             "category": "women's clothing",
@@ -357,7 +877,7 @@
             },
             {
             "id": 2,
-            "title": "Balenciaga- Women's Pink Logo Wool-blend Sweater",
+            "title": "Balenciaga - Women's Pink Logo Wool-blend Sweater",
             "price": 22.3,
             "description": "This cozy pink wool-blend sweater from Balenciaga is enriched with unmissable scrolling logos. 53% COTTON 22% POLYESTER 22% WOOL 2% POLYAMIDE 1% ELASTAN. Color: pink",
             "category": "women's clothing",
@@ -369,7 +889,7 @@
             },
             {
             "id": 3,
-            "title": "Mens Cotton Jacket",
+            "title": "Womens Cotton Jacket",
             "price": 55.99,
             "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
             "category": "women's clothing",
@@ -381,7 +901,7 @@
             },
             {
             "id": 4,
-            "title": "Mugler- Women's Blue Paneled Seam Detail Skinny Jeans",
+            "title": "Mugler - Women's Blue Paneled Seam Detail Skinny Jeans",
             "price": 15.99,
             "description": "These Mugler paneled seam detail skinny jeans are cut for a slim fit. These jeans fit you like a glove - it seams as though they were made for you. Sky blue washMade with cottonPanelled designConcealed fastening with button closureBelt loopsFive pocketsScultped seamsStitched detailingBranded patch to the reverseCrafted in Italy. Color: blue",
             "category": "women's clothing",
@@ -393,7 +913,7 @@
             },
             {
             "id": 5,
-            "title": "DIESEL- Women's Blue 'd-tandy' Sleeveless Dress",
+            "title": "DIESEL - Women's Blue 'd-tandy' Sleeveless Dress",
             "price": 695,
             "description": "Blue 'D-TANDY' maxi sleeveless dress from Diesel. Crafted from a combination of cotton, fleece and satin, this style features contrasting taping, logo patches on the front and back, hook & eye closures and denim fringes on the side. Color: blue",
             "category": "women's clothing",
@@ -441,9 +961,9 @@
             },
             {
             "id": 9,
-            "title": "Mugler- Women's Brown Dress",
+            "title": "Mugler - Women's Brown Dress",
             "price": 64,
-            "description": "Draped dress Spaghetti strap neckline Thin shoulder straps Neckline Open back Sheer lining. Color: brown",
+            "description": "Draped dress Spaghetti strap neckline Thin shoulder straps Neckline Open back lining. Color: brown",
             "category": "women's clothing",
             "image": "https://cdna.lystit.com/200/250/tr/photos/24sevres/817eeaee/mugler-nude_1-Dress.jpeg",
             "rating": {
@@ -453,7 +973,7 @@
             },
             {
             "id": 10,
-            "title": "Mugler- Blue Colourblock Skinny Jeans - Women's - Cotton/polyamide/polyester/spandex/elastane",
+            "title": "Mugler - Blue Colourblock Skinny Jeans - Women's - Cotton",
             "price": 109,
             "description": "Medium blue and blackMade from cottonHigh-rise waistButton and concealed front fasteningBelt loopsSilver-tone metal rivetsContrast panels wrapping front to backFive pocketsRear contrast leather logo patchSkinny legsCrafted in Italy. Color: blue",
             "category": "women's clothing",
@@ -465,7 +985,7 @@
             },
             {
             "id": 11,
-            "title": "Loewe- Women's Black Maxi Dress",
+            "title": "Loewe - Women's Black Maxi Dress",
             "price": 109,
             "description": "Maxi dress Sleeveless Round neck Asymmetric cut Tie fastening Shorter at the front Bi-material. Color: black",
             "category": "women's clothing",
@@ -477,7 +997,7 @@
             },
             {
             "id": 12,
-            "title": "Emporio Armani- Women's Black Hoodie With Logo",
+            "title": "Emporio Armani - Women's Black Hoodie With Logo",
             "price": 114,
             "description": "Black sweatshirt with a drawcord-adjustable hood from Emporio Armani, the 'Underwear' collection. Crafted from cotton jersey, this style features a zip fastening, a white logo print, two slip pockets, long sleeves and an elasticated bottom hem and cuffs. Color: black",
             "category": "women's clothing",
@@ -489,7 +1009,7 @@
             },
             {
             "id": 13,
-            "title": "DIESEL- Women's Metallic 'w-elvia' Jacket",
+            "title": "DIESEL - Women's Metallic 'w-elvia' Jacket",
             "price": 599,
             "description": "Greenish gray 'W-ELVIA' short hooded jacket from Diesel. Fastened with an asymmetric zip fastening, this garment is complete with a logo patch, drawstring hem, two zip pockets and long sleeves with ribbed cuffs. Color: metallic",
             "category": "women's clothing",
@@ -501,7 +1021,7 @@
             },
             {
             "id": 14,
-            "title": "DIESEL- Women's Red 'm-arcey' Dress",
+            "title": "DIESEL - Women's Red 'm-arcey' Dress",
             "price": 999.99,
             "description": "Red 'M-ARCEY' dress with a mock neck, cut-out and logo appliqué in red from Diesel. Color: red",
             "category": "women's clothing",
@@ -515,7 +1035,7 @@
             "id": 15,
             "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
             "price": 56.99,
-            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together.",
             "category": "women's clothing",
             "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
             "rating": {
@@ -525,7 +1045,7 @@
             },
             {
             "id": 16,
-            "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "title": "Lock and Love Women's Removable Hooded Biker Jacket",
             "price": 29.95,
             "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
             "category": "women's clothing",
