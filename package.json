@@ -19,7 +19,10 @@
   "homepage": "https://github.com/rohan28107/lyst-api#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "json-serve": "^0.1.0",
-    "json-server": "^0.17.1"
+    "json-serve": "^0.1.0"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0"
   }
 }
